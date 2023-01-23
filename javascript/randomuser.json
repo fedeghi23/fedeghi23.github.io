@@ -1,0 +1,30 @@
+{"results":
+    [
+    {
+    "gender":"male",
+    "name":{"title":"Mr","first":"Nicolas","last":"Torres"},
+    "location":{"street":{"number":1359,"name":"Calle de La Luna"},
+    "city":"Santiago de Compostela",
+    "state":"Islas Baleares",
+    "country":"Spain",
+    "postcode":64055,
+    "coordinates":{"latitude":"54.8646","longitude":"-109.9111"},
+    "timezone":{"offset":"-1:00","description":"Azores, Cape Verde Islands"}},
+    "email":"nicolas.torres@example.com",
+    "login":{"uuid":"cf628cb9-9a7c-423c-a970-fc8bac655168",
+    "username":"heavybird945",
+    "password":"makaveli",
+    "salt":"LQCUlmWk",
+    "md5":"9723e43fd4364971a1ccb43570d31e74",
+    "sha1":"cef25d77ebb88cb99657bf829f981434f6cea17e",
+    "sha256":"7e4efe9d9a39f281d3c81f60955b9b366554c5e55140113eee31f8a6f90c38ce"},
+    "dob":{"date":"1988-02-15T17:25:21.018Z","age":34},
+    "registered":{"date":"2013-04-30T02:26:39.451Z","age":9},
+    "phone":"968-433-045",
+    "cell":"611-984-116",
+    "id":{"name":"DNI","value":"43510488-U"},
+    "picture":{"large":"https://randomuser.me/api/portraits/men/74.jpg","medium":"https://randomuser.me/api/portraits/med/men/74.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/74.jpg"},
+    "nat":"ES"
+    }
+    ],
+"info":{"seed":"l7jg52yt686kl9889","results":1,"page":1,"version":"1.4"}}
